@@ -6,7 +6,12 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
+scikit-learn = {extras = ["alldeps"],version = "*"}
+pandas = "*"
+numpy = "*"
 streamlit = "*"
+pillow = "*"
+plotly = "*"
 
 [requires]
 python_version = "3.7"

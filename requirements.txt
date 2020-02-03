@@ -1,5 +1,4 @@
 altair==4.0.1
-appnope==0.1.0
 astor==0.8.1
 attrs==19.3.0
 backcall==0.1.0
@@ -50,9 +49,6 @@ protobuf==3.11.2
 ptyprocess==0.6.0
 pydeck==0.2.1
 Pygments==2.5.2
-pyobjc-core==6.1
-pyobjc-framework-Cocoa==6.1
-pyobjc-framework-FSEvents==6.1
 pyrsistent==0.15.7
 python-dateutil==2.8.0
 pytz==2019.3
