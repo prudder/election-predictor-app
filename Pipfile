@@ -6,12 +6,12 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-pillow = "*"
-plotly = "*"
-streamlit = "*"
-numpy = "*"
-pandas = "*"
 scikit-learn = {extras = ["alldeps"],version = "*"}
+pandas = "*"
+numpy = "*"
+streamlit = "*"
+plotly = "*"
+pillow = "*"
 
 [requires]
 python_version = "3.7"

@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run election_predictor_app.py
+web: sh setup.sh && streamlit run election-predictor-app.py
